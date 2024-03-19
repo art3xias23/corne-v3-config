@@ -1,4 +1,4 @@
-My corne keynoard configuration, images, key mapping and layout.
+My corne keyboard build and UK layout images.
 
 *Left*
 ![some image](img1.jpg)
