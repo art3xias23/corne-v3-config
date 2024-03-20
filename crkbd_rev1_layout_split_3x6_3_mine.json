@@ -43,12 +43,12 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_ESC",
-      "KC_LGUI",
+      "KC_LALT",
       "MO(1)",
       "KC_SPC",
       "KC_ENT",
       "MO(2)",
-      "KC_LALT"
+      "KC_LGUI"
     ],
     [
       "KC_TAB",
@@ -85,7 +85,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_NUBS",
       "KC_NO",
       "KC_LGUI",
       "KC_TRNS",
