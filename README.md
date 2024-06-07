@@ -1,28 +1,28 @@
 My corne keyboard build and UK layout images.
 
 *Left*
-![some image](img1.jpg)
+![some image](images/img1.jpg)
 
 
 *Right*
-![some image](img2.jpg)
+![some image](images/img2.jpg)
 
 
 *Connected*
-![some image](img3.jpg)
+![some image](images/img3.jpg)
 
 
 *Finished*
-![some image](img4.jpg)
+![some image](images/img4.jpg)
 
 ### Layer 1
-![s](Layer1.PNG)
+![s](images/Layer1.PNG)
 
 ### Layer 2
-![s](Layer2.PNG)
+![s](images/Layer2.PNG)
 
 ### Layer 3
-![s](Layer3.PNG)
+![s](images/Layer3.PNG)
 
 ### Layer 4
-![s](Layer4.PNG)
+![s](images/Layer4.PNG)
