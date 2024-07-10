@@ -15,6 +15,10 @@ My corne keyboard build and UK layout images.
 *Finished*
 ![some image](images/img4.jpg)
 
+*Latest one 07/07/2024*
+*This time Kailh Choc hotswap*
+![some image](images/img5.jpg)
+
 ### Layer 1
 ![s](images/Layer1.PNG)
 
